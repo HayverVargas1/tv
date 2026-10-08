@@ -1,0 +1,31 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="RCN.co" tvg-name="RCN" tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="Colombia",RCN
+http://38.134.250.110:8000/play/a00i/index.m3u8
+
+#EXTINF:-1 tvg-id="CaracolHD2.co" tvg-name="Caracol HD2" tvg-logo="https://i.imgur.com/Fww94l9.png" group-title="Colombia",Caracol HD2
+http://190.109.2.92:8000/play/a05u/index.m3u8
+
+#EXTINF:-1 tvg-id="AlertaBogota.co" tvg-name="Alerta Bogota" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/664/fantastica-bogota-1044-fm.953b1280.png" group-title="Colombia",Alerta Bogota
+https://mdstrm.com/live-stream-playlist/69b2cdf98815b9b6c48c2532.m3u8
+
+#EXTINF:-1 tvg-id="BluRadio.co" tvg-name="Blu Radio" tvg-logo="https://i.imgur.com/w2t8CGT.png" group-title="Colombia",Blu Radio
+https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8
+
+#EXTINF:-1 tvg-id="Canal1.co" tvg-name="Canal 1" tvg-logo="https://i.imgur.com/YFywPLC.png" group-title="Colombia",Canal 1
+http://190.109.2.92:8000/play/a010/index.m3u8
+
+#EXTINF:-1 tvg-id="CaracolTelevision.co" tvg-name="Caracol Television" tvg-logo="https://i.imgur.com/h7LWbt5.png" group-title="Colombia",Caracol Television
+http://132.255.210.69:8000/play/a049/index.m3u8
+
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" tvg-logo="https://i.imgur.com/WbfdJbk.png" group-title="Colombia",Caracol TV
+http://38.190.100.202:8000/play/a09v/index.m3u8
+
+#EXTINF:-1 tvg-id="CityTV.co" tvg-name="City TV" tvg-logo="https://i.imgur.com/h7K9EW9.png" group-title="Colombia",City TV
+http://200.122.223.13:55000/play/city-tv-banda-ku/index.m3u8
+
+#EXTINF:-1 tvg-id="LaKalle.co" tvg-name="La Kalle" tvg-logo="https://www.tdtparatodos.tv/sites/default/files/la_kalle.png" group-title="Colombia",La Kalle
+https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
+
+#EXTINF:-1 tvg-id="RCNHD2.co" tvg-name="RCN HD2" tvg-logo="https://i.imgur.com/SrMPTfc.png" group-title="Colombia",RCN HD2
+http://181.78.14.26:4000/play/a07m/index.m3u8
