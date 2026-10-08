@@ -32,26 +32,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Series" tvg-logo="https://images.pluto.tv/channels/5dcde1317578340009b751d0/colorLogoPNG.png" group-title="Colombia",Pluto TV Series
 https://jmp2.uk/plu-5dcde1317578340009b751d0.m3u8
 
-#EXTINF:-1 tvg-name="Pluto TV Series Latinas" tvg-logo="https://images.pluto.tv/channels/5dd837642c6e9300098ad484/colorLogoPNG.png" group-title="Colombia",Pluto TV Series Latinas
-https://jmp2.uk/plu-5dd837642c6e9300098ad484.m3u8
-
-#EXTINF:-1 tvg-name="Pluto TV Series de Acción" tvg-logo="https://images.pluto.tv/channels/6479ff1c17f5e10008ad2797/colorLogoPNG.png" group-title="Colombia",Pluto TV Series de Acción
-https://jmp2.uk/plu-6479ff1c17f5e10008ad2797.m3u8
-
 #EXTINF:-1 tvg-name="Pluto TV Cine Estelar" tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG_1769014514491.png" group-title="Colombia",Pluto TV Cine Estelar
 https://jmp2.uk/plu-5dcde437229eff00091b6c30.m3u8
 
-#EXTINF:-1 tvg-name="Pluto TV Cine Acción" tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG_1760378798093.png" group-title="Colombia",Pluto TV Cine Acción
-https://jmp2.uk/plu-5dcb62e63d4d8f0009f36881.m3u8
-
-#EXTINF:-1 tvg-name="Pluto TV Cine Familia" tvg-logo="https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/colorLogoPNG_1762273018940.png" group-title="Colombia",Pluto TV Cine Familia
-https://jmp2.uk/plu-5dd6ddb30a1d8a000908ed4c.m3u8
-
-#EXTINF:-1 tvg-name="Euronews Español" tvg-logo="https://images.pluto.tv/channels/619d59b7cbef25000728221c/colorLogoPNG_1781045575622.png" group-title="Colombia",Euronews Español
-https://jmp2.uk/plu-619d59b7cbef25000728221c.m3u8
-
-#EXTINF:-1 tvg-name="Azteca Internacional" tvg-logo="https://images.pluto.tv/channels/646cce4d1593940008a33f09/colorLogoPNG.png" group-title="Colombia",Azteca Internacional
-https://jmp2.uk/plu-646cce4d1593940008a33f09.m3u8
-
-#EXTINF:-1 tvg-name="Pluto TV Novelas" tvg-logo="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG_1772819701162.png" group-title="Colombia",Pluto TV Novelas
-https://jmp2.uk/plu-5dcde0cc2efd2700090b7ff4.m3u8
